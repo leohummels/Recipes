@@ -5,7 +5,7 @@ API de livro de receitas, com a finalidade de praticar a integração de uma apl
 
 Aplicação REST que utiliza Node.js e Express para inserir e remover receitas culinárias por meio de objetos JSON. 
 
-As requisições utilizadas na aplicação são GET, POST e DELETE, que permitem, respcetivamente, recuperar os dados
+Os verbos HTTP utilizadas na aplicação são GET, POST e DELETE, que permitem, respcetivamente, recuperar os dados
 
 no bando de dados, inserir novas receitas junto a uma identificação numérica e deletá-las a partir da identificação 
 
