@@ -7,8 +7,8 @@ Aplicação REST que utiliza Node.js e Express para inserir e remover receitas c
 
 As requisições utilizadas na aplicação são GET, POST e DELETE, que permitem, respcetivamente, recuperar os dados
 
-no bando de dados, inserir novas receitas e deletá-las a partir de uma identificação numérica. Esse dados são 
+no bando de dados, inserir novas receitas junto a uma identificação numérica e deletá-las a partir da identificação 
 
-inseridos (ou removidos) em um banco de dados não relacional - MongoDB, sendo executado em máquina local. 
+numérica. Os dados são armazenados em um banco de dados não relacional - MongoDB, que foi executado em máquina local. 
 
 
